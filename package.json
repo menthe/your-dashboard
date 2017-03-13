@@ -6,6 +6,24 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/menthe/your-dashboard.git"
+  },
   "author": "harris",
-  "license": "ISC"
+  "keywords": [
+    "dashboard",
+    "backend dashboard",
+    "harris"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap-less": "^3.3.8",
+    "bootstrap-wysiwyg": "^2.0.1",
+    "daterangepicker": "0.0.3",
+    "font-awesome": "^4.7.0",
+    "fullcalendar": "^3.2.0",
+    "jquery": "^3.1.1",
+    "jquery-ui": "^1.12.1"
+  }
 }
